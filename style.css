@@ -2,8 +2,8 @@ const minhaImagem = document.getElementById('minhaImagem');
 minhaImagem.src = 'logoapae.jpg'; // ou 'logoapae.png', dependendo do formatolet alunos = [];let alunos = [];
 body {
     font-fa#container {
-        width: 300px;
-        height: 200px;
+        width: 200px;
+        height: 100px;
         border: 1px solid #ccc;
         display: flex;
         justify-content: center;
